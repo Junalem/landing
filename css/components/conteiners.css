@@ -1,0 +1,12 @@
+.cards {
+  text-align: center;
+  text-size-adjust: 16px;
+  bottom: 100px;
+  display: flex;
+  justify-content: space-between;
+  }
+
+  .conteiner2 {
+    text-align: center;
+    margin: 0;
+  }
